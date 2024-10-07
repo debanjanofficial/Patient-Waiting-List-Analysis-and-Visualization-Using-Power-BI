@@ -48,8 +48,7 @@ Once the data is transformed, it moves into the data modelling phase, where rela
 
 ## Data Visualization Blueprint:
 The Visualization Blueprint process is introduced. This step involves planning how the data will be represented visually. The focus is on defining key performance indicators (KPIs), setting up the charts, graphs, and tables, and ensuring that the visualizations align with the goals of the report. The blueprint ensures that the visuals communicate the insights effectively and are designed with user experience in mind. Before building, the structure of the dashboard is laid out to ensure that all necessary data points are captured and that visual hierarchies are clear.
-
-
+![image alt](image.png)
 
 ## Dashboard Layout & Design
 We walks through the Layout & Design Workflow for creating an efficient and intuitive dashboard in Power BI. This involves arranging the visual elements on the canvas, applying consistent formatting, and using design principles such as balance, contrast, and emphasis to guide the user’s attention to important information. It is crucial to maintain a clear, uncluttered design that improves readability and facilitates interaction. The layout design ensures that the dashboard looks professional and provides a seamless user experience.
